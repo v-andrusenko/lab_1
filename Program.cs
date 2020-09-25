@@ -11,6 +11,8 @@ namespace lab_1
         static void Main(string[] args)
         {
             Console.WriteLine("Привет!");
+
+            Console.WriteLine("Это первая лабораторная.");
         }
     }
 }
